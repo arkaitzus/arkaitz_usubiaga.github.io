@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arkaitz Usubiaga Liaño"
 title_separator          : "-"
 name                     : &name "Arkaitz Usubiaga Liaño"
-description              : &description "personal description"
+description              : &description "Research Associate and PhD Candidate at University College London"
 url                      : https://arkaitzus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arkaitzus.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Arkaitz Usubiaga Liaño"
+  avatar           : "ArkaitzUsubiaga.jpg"
+  bio              : "Research Associate and PhD Candidate at University College London. Industrial ecologist and environmental scientist interested in sustainability research."
+  location         : "London"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.es/citations?user=DKX7XZwAAAAJ&hl=es&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Arkaitz_Usubiaga-Liano"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "arkaitzus"
+  github           : #"arkaitzus"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #"https://profiles.impactstory.org/u/0000-0002-2352-5489"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2352-5489"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "arkaitzus"
   vine             :
   weibo            :
   xing             :
