@@ -15,6 +15,7 @@ Journal papers
 ------
 * Usubiaga-Liaño, A., Mace, G. and Ekins, P. (2019). Limits to agricultural land for retaining acceptable levels of local biodiversity. Nature Sustainability 2, 491–498.
 * Ekins, P. and Usubiaga, A. (2019). Brundtland +30: The Continuing Need for an Indicator of Strong Sustainability. In: Linnerud, K., Holden, E., Langhelle, O., Banister, D. and Meadowcroft, J. (eds.). What Next for Sustainable Development? Our Common Future at Thirty. Edward Elgar. Cheltenham (2019)
+* <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="62565982" />
 
 Education
 ======
